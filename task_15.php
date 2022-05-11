@@ -44,7 +44,7 @@ session_start();
                                     <form action="task_15_handler.php" method="post">
                                         <button class="btn btn-success mt-3">Submit</button>
                                     </form>
-									<form action="task_15_handler_delete.php" method="post">
+									<form action="task_15_delete.php" method="post">
                                         <button class="btn btn-danger mt-3">Сбросить счетчик</button>
                                     </form>
                                 </div>
