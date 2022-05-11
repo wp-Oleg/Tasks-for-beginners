@@ -35,7 +35,7 @@
                         <div class="panel-content">
                             <div class="panel-content">
                                 <div class="form-group">
-                                    <form action="task_11_save.php" method="post">
+                                    <form action="task_11_handler.php" method="post">
                                         <label class="form-label" for="simpleinput">Text</label>
                                         <input type="text" name="name" id="simpleinput" class="form-control">
                                         <button class="btn btn-success mt-3" type="submit">Submit</button>
